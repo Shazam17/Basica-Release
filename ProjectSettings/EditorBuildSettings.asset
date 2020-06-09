@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Menus/mainMenu.unity
+    guid: 7798a495646e45a4291b1aa8efcb975d
+  - enabled: 1
+    path: Assets/Menus/statistics.unity
+    guid: a490151ec20683c4f986f3cead440928
+  - enabled: 1
+    path: Assets/Menus/settings.unity
+    guid: 406c028ecf965f14dbc4403c431c1f91
+  - enabled: 1
+    path: Assets/Menus/StatDetails.unity
+    guid: 48418678139cb1f4eab9784f8e958399
+  - enabled: 1
+    path: Assets/Menus/subMenuTemplate.unity
+    guid: 8b1cb9e73b0c33e498b02c836164c062
+  - enabled: 1
+    path: Assets/module1/lettersLevel1.unity
+    guid: 30815140fc90d094392b9de72b1768d0
+  - enabled: 1
+    path: Assets/module1/lettersLevel2.unity
+    guid: 8c84b9b20c5815840ac600cd4565e481
+  - enabled: 1
+    path: Assets/module1/lettersLevel3.unity
+    guid: 3989d2f49b28b7648947c4888f690c00
+  - enabled: 1
+    path: Assets/module2/numbersLevel1.unity
+    guid: e0e32f164d3c9b94e99142c5118bbf2c
+  - enabled: 1
+    path: Assets/module2/numbersLevel2.unity
+    guid: d404fc110ecfd364dbe1efa506a172d5
+  - enabled: 1
+    path: Assets/module2/numbersLevel3.unity
+    guid: fa444066eff06ac4fbe443bd6fd1ea63
+  - enabled: 0
+    path: Assets/module3/colorsLevel1.unity
+    guid: fea45c30472435c4dae97651ee9182c4
+  - enabled: 1
+    path: Assets/module3/colorsLevel1Cubes.unity
+    guid: 493bb31f628f4b14f90d2e0b3a7e8e8f
+  - enabled: 1
+    path: Assets/module3/colorsLevel2.unity
+    guid: 83dd16f5690f92647aebfbdb8844711a
+  - enabled: 1
+    path: Assets/module3/colorsLevel3.unity
+    guid: 1f27fc5a2e24a1449a2955211312a339
+  - enabled: 1
+    path: Assets/module4/figuresLevel1.unity
+    guid: b3fe41e21a658104cbc31c9e224d3fcb
+  - enabled: 1
+    path: Assets/module4/figuresLevel2.unity
+    guid: bfd0608158cc08d45847727ad9144714
+  - enabled: 1
+    path: Assets/module4/figuresLevel3.unity
+    guid: 1ba261d92b199a34f9679b2d053ca9f7
+  - enabled: 1
+    path: Assets/module5/animalsLevel1.unity
+    guid: 0c9e94ea6c6b0584b80d0ab922ea6d1c
+  - enabled: 1
+    path: Assets/module5/animalsLevel2.unity
+    guid: ab947452e6843c145acb003d2d267b73
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Menus/LevelCompleteDebug.unity
+    guid: 04e731508d8d6df4aa07e5932b9fa1c2
+  - enabled: 0
+    path: Assets/Menus/dbDump.unity
+    guid: 553715b941f42cd44bfeb07bbea7327c
+  m_configObjects: {}
